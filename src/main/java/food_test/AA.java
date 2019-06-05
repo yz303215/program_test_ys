@@ -5,5 +5,7 @@ package food_test;
  * @author yangshen
  */
 public class AA {
-
+	public static void main(String[] args) {
+		System.out.println("The third commit!");
+	}
 }
